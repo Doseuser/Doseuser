@@ -42,16 +42,7 @@ Beyond OS-level internals, I actively hunt for critical server-side validation b
 ![HackRF One](https://img.shields.io/badge/HackRF_One-SDR-000000?style=for-the-badge)
 ![C2 Development](https://img.shields.io/badge/C2-Architecture-darkgreen?style=for-the-badge)
 
----
 
-### 📊 Telemetry
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=doseuser&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doseuser&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6&hide=html,css" />
-</div>
-
----
 
 ### 📫 Establish Connection
 
