@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Advanced+C%2B%2B,+Python,+%26+Go+Dev;Offensive+Tooling+%26+C2+Architecture;Zero-Day+Windows+Vulnerability+Researcher;EDR+Evasion+%7C+Custom+Implants;Hardware+%26+RF+Auditing;Breaking+stuff+since+day+one" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Writing+C%2B%2B,+Python,+%26+Go;Building+Offensive+Tooling+%26+C2s;Hunting+Windows+Zero-Days;Crafting+Implants+%26+Bypassing+EDRs;Hardware+%26+RF+Hacker;Breaking+things+to+understand+them" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,11 +12,11 @@
 
 ### 🧠 Operations & Research
 
-I build **malware** and **red team tooling** covering the entire audit methodology — recon, initial access, evasion, persistence, exfiltration, and C2 operations. My research primarily targets Windows internals, reversing drivers, services, and exploring undocumented NTAPI paths. 
+I spend my time writing custom offensive tooling and developing malware designed for advanced red team operations. My daily grind usually involves diving deep into Windows internals, reverse engineering drivers, and messing around with undocumented NTAPI calls to see what breaks. 
 
-Beyond OS-level internals, I actively hunt for critical server-side validation bypasses in major APIs and platforms. While I occasionally submit vulnerability reports to entities like the **Microsoft Security Response Center (MSRC)**, offensive capabilities are my main focus. Some bugs get reported, some stay in the toolbox.
+Beyond OS-level manipulation, I actively hunt for logic flaws and critical validation bypasses in major web APIs and enterprise platforms. While I occasionally drop a vulnerability report to folks like the **Microsoft Security Response Center (MSRC)**, my true passion lies in offensive capability development. Some bugs get patched and reported; others stay quietly in the arsenal.
 
-> *"If it runs on Windows, I can probably break it. If it doesn't, I'll still try."*
+> *"If it runs on Windows, there's a way to break it. If it doesn't, I'll still find a way in."*
 
 ---
 
@@ -37,12 +37,12 @@ Beyond OS-level internals, I actively hunt for critical server-side validation b
 ![Metasploit](https://img.shields.io/badge/Metasploit-Framework-000000?style=for-the-badge&logo=metasploit&logoColor=white)
 
 #### **Infrastructure & Hardware Auditing**
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-Primary_OS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![ParrotOS](https://img.shields.io/badge/ParrotOS-Primary_OS-38B6AD?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-RF_Auditing-FF8C00?style=for-the-badge)
 ![HackRF One](https://img.shields.io/badge/HackRF_One-SDR-000000?style=for-the-badge)
 ![C2 Development](https://img.shields.io/badge/C2-Architecture-darkgreen?style=for-the-badge)
 
-
+---
 
 ### 📫 Establish Connection
 
@@ -67,6 +67,5 @@ Beyond OS-level internals, I actively hunt for critical server-side validation b
 
 ---
 <div align="center">
-  <em>"No generic stats, no bullshit. Just code that works and bugs that shouldn't exist."</em>
+  <em>"No fluff. Just code that executes and vulns that shouldn't exist."</em>
 </div>
-
