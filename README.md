@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 Operations & Research
+###  Operations & Research
 
 I spend my time writing custom offensive tooling and developing malware designed for advanced red team operations. My daily grind usually involves diving deep into Windows internals, reverse engineering drivers, and messing around with undocumented NTAPI calls to see what breaks. 
 
@@ -20,7 +20,7 @@ Beyond OS-level manipulation, I actively hunt for logic flaws and critical valid
 
 ---
 
-### ⚔️ Arsenal & Capabilities
+###  Arsenal & Capabilities
 
 #### **Languages & Obfuscation**
 ![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,7 +44,7 @@ Beyond OS-level manipulation, I actively hunt for logic flaws and critical valid
 
 ---
 
-### 📫 Establish Connection
+###  Establish Connection
 
 <div align="center">
   <a href="mailto:doseuser@proton.me">
