@@ -50,7 +50,7 @@ Beyond OS-level manipulation, I actively hunt for logic flaws and critical valid
   <a href="mailto:doseuser@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-doseuser-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1441217448186609695">
+  <a href="https://discord.com/users/1276206118267392000">
     <img src="https://img.shields.io/badge/Discord-doseuser-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
@@ -58,7 +58,7 @@ Beyond OS-level manipulation, I actively hunt for logic flaws and critical valid
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=doseuser&label=Targets%20Acquired&color=00FF41&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=doseusser&label=Targets%20Acquired&color=00FF41&style=flat" alt="visitor badge" />
 </div>
 
 <div align="center">
